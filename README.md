@@ -1,1 +1,3 @@
-# Pyscript Test
+# Wasm Python
+
+Wasm with Python (pyscript)
