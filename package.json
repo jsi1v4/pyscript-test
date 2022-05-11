@@ -1,7 +1,7 @@
 {
-  "name": "pyscript-test",
+  "name": "wasm-python",
   "version": "1.0.0",
-  "repository": "https://github.com/jsi1v4/pyscript-test.git",
+  "repository": "https://github.com/jsi1v4/wasm-python.git",
   "author": "jsi1v4 <git@jsi1v4.com>",
   "license": "MIT",
   "private": false
